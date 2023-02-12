@@ -1,16 +1,5 @@
-<section
-	class="flex justify-center items-center gap-2 bg-neutral-800 text-white pb-4 pt-4 mb-6 drop-shadow-lg"
->
-	<img src="$lib/assets/EH.png" alt="TOChicken logo" class="h-14" />
-	<div class="flex-col">
-		<h1 class="text-xs">Welcome to</h1>
-		<h1 class="text-lg font-extrabold">THE TOChicken!!!! 🔰🔰</h1>
-		<p class="text-xs">the outdoor club's video dump</p>
-	</div>
-</section>
-
-<section class="flex justify-center bg-neutral-800 text-white pt-2 pb-2 pl-2 pr-2">
-	<div class="w-[40%]">
+<section class="flex justify-center bg-transparent text-white pt-2 pb-2 pl-2 pr-2">
+	<div class="w-full sm:w-[70%] lg:w-[40%]">
 		<video
 			class="mb-2 w-full object-contain border"
 			controls
